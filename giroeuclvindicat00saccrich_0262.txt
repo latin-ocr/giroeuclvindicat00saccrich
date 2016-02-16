@@ -1,0 +1,26 @@
+prognatam aequalem esse debere contrapositae basi AB.
+Nunc autem contradictorium ex eadem hypothesi elici-
+muS, quod curva CKD nequeat esse aequalis illi basi, cum
+certe sit eadem major. Quod enim curva CKD major sit
+recta CD ejus extremitates jungente, notio est omnibus
+communiS, quam etiam demonstrare possumus ex vige-
+sima primi, quod duo trianguli latera reliquo semper sunt
+majora; junctis nimirum CK, et KD; ac rursum junctis
+similiter apicibus, primo quidem duorum, tum quatuor,
+et sic in infinitum, duplicato numero enascentium seg-
+mentorum‚ quousque intelligatur hoc pacto absumi, seu
+desinere in ipsas infinite parvas seu chordaS, seu tan-
+gentes, tota curva CKD. Sed hic procedere possumus ex
+sola communi notione. Quod autem juncta CD major
+sit basi AB; demonstratum a nobis est in 3. hujus ex ipsis
+visceribus hypothesis anguli acuti. Igitur curva CKD,
+ex hypothesi anguli acuti enascenS, est certe major basi
+AB, quia est major, saltem ex communi notione, recta
+CD, quae ex hac ipsa hypothesi anguli acuti demonstratur
+major basi AB. Non igitur potest simul consistere, quod
+curva ista CKD aequalis sit basi AB. Itaque constat
+hypothesim anguli acuti esse absolute falsam, quia se
+ipsam destruit.
+
+226
+

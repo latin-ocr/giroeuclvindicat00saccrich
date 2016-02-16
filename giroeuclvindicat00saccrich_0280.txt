@@ -1,0 +1,42 @@
+PAGE 33. Prop. VI: Here is assumed the principle of
+continuity. An elementary proof without this and without
+the Archimedes assumption is given by Bonola. ’
+
+Without these, and with only a sect-carrier replacing the
+circle in constructionS, Euclid’s geometry and a geometry
+fulfilling the hypothesis of obtuse angle are given in Halsted,
+Ge'ombtrie rationnelle, PariS, Gauthier-Villars. Compare, for
+the hypothesis of acute angle: John Bolyai, The Science
+Absolute of Space‚ translated from the Latin by Dr. George
+Bruce Halsted; and Nicholas Lobachevski‚ Geometrical Re-
+searches on the Theory of Parallels, translated from the
+original by George Bruce Halsted (The Open Court Pub-
+lishing Company, 1914).
+
+PAGE 95f. Demonstrations physico-geometriC. If in a
+single case the angle inscribed in a semicircle be ascertained
+to be right, Euclidean geometry is established. But measure-
+ment being imperfect, this is hopeless. What if such angle
+were found other than right by a difference greater than the
+limits of experimental error?
+
+Consult: George Bruce Halsted, The F oundations of
+Science, New York, The Science Press, 1913.
+
+PAGE 109. Prop. XXI. Scholion IV: Saccheri misses
+the possibility that the intersection point P of APY and
+XPY may go to infinity while AX remains finite.
+
+PAGE 192. Ly is a term of the grammarians and rhetori-
+cianS, by which is denoted the treatment of a word as itself
+a thing. The Greek article τὸ was thus used.
+
+PAGE 221. Prop. XXXVII. Scholion I: Is it possible
+Saccheri did not perceive that his reasoning applies just as
+well to proving two concentric circles equal?
+
+PAGE 224. Prop. XXXVII. Scholion II: “aequali tem—
+pore‚” yes3 but “aequali motu’' is unproven.
+
+244
+

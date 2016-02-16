@@ -1,0 +1,29 @@
+tracta cadere tota debet versus partes convexam, atque ideo
+ipsa erit ejusdem curvae tangens, Quod erat demon-
+strandum. [89]
+
+PROPOSITIO XXXVI.
+
+Si recta quaepiam XF (ᾗς. 44.) acutum anyulum efficiat
+cum quavis ordinata LF, non cadet punctum X extra
+cavitatem curvae, nisi prius ipsa XF in aliquo puncto
+O curvam secuerit.
+
+Demonstratur. Constat sumi posse in ipsa XF punc-
+tum quoddam X adeo vicinum ipsi puncto F, ut juncta
+LX prius curvam secet in aliquo puncto S: caeterum ipsa
+XF vel non cadet tota extra cavitatem curvae, et sic habe-
+mus intentum; vel adeo non efficiet cum FL angulum
+acutum, ut magis censenda jam sit in unicam rectam cum
+altera LF. coire. Itaque ex puncto S demittatur ad basim
+AB perpendicularis ΞΡ. Erit haec (ex 34. hujus) aequa-
+lis ipsi LF. Est autem ΞΡ (ex 19. primi) minor ipsa
+LS. Ergo etiam LF minor est eadem LS, ac propterea
+multo minor ipsa LX. Hinc in triangulo LXF acutus
+erit angulus in puncto X, quia minor (ex 18. primi) an-
+gulo LFX supposito acuto. Jam demittatur ad FX per-
+pendicularis LT. Cadet haec (propter 17. primi) ad
+partes utriusque anguli acuti. Quare punctum T jacebit
+inter puncta X, et F. Deinde ex puncto T demittatur ad
+basim AB perpendicularis TQ. Erit LF (propter angulum
+

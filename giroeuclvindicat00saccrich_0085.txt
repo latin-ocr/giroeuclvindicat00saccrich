@@ -1,0 +1,43 @@
+But it is evident this cannot happen, except after the
+meeting of the prolonged AD with PL in some point L.
+
+For if the point T occurred before that meeting, the
+perpendicular TR must cut PL in some point K. But
+then in the triangle KPR would be found two right angles
+at the points P and R; which is absurd (against Eu. Ι.
+17).
+
+Therefore it holds that the straights AD, PL meet
+each other mutually (in the hypothesis of right angle)
+in some point (and indeed at a finite or terminated dis-
+tance) if they be produced toward that side, on which
+with the transversal ΑΡ (of finite length as great as
+you choose) they make two angles together less than two
+right angleS.
+
+Quod erat demonstrandum. [15]
+
+PROPOSITION XII.
+
+Ayain I say also in the hypothesis of obtuse angle the
+straiyht AD will meet the straiyht PL somewhere
+toward those parts (and indeed at a finite, or termi-
+nated distance).
+
+1.
+
+ 
+
+F ig. 10.
+
+PROOF. For, as in the preceding proposition, DF
+being assumed equal to AD, and the just noted perpen-
+diculars let fall, I must show the join DM will be greater
+than DF, or DA, and therefore (P. X.) the straight ΒΜ
+will be greater than AB.
+
+And in the first place DM will not be equal to DF .
+Otherwise the angle DMF would be equal (Eu. Ι. 5) to
+
+49
+

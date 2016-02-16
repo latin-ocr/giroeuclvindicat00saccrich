@@ -1,0 +1,38 @@
+the internal and opposite angle (which then would be-
+come) AHG, or GHA.
+
+Therefore I have rightly supposed the side DF of
+one triangle to be less-than the side AC of the other
+triangle, in accordance with the hypothesis now es-
+tablished.
+
+Wherefore from any two triangles mutually equian-
+gular‚ but not also mutually equilateral, the Euclidean
+postulate is established. Quod intendebatur.
+
+SCHOLION IV.
+
+In which is expounded on a figure a certain consideration
+on which Euclid probably thouyht‚ in order to estab-
+lish that postulate of his as per se evident.
+
+I premise first: within any acute angle BAX (fig. 12)
+can be drawn from any [42] point X of AX a certain
+straight XB, under any designated (even obtuse) angle
+R (provided only that R with the acute BAX falls short
+of two right angles) ; I say, a certain XB can be drawn,
+which at a finite remove meets AB in a certain point B.
+
+ 
+
+For just that Ι have already demonstrated in a scho-
+lion after P. XIII.
+
+I premise secondly: these AB, AX (fig. 25) can be
+understood as produced in infinitum even to certain points
+Y, and Z; and likewise the aforesaid XB (produced in
+
+infinitum even to a point Y) can be understood to be
+
+109
+

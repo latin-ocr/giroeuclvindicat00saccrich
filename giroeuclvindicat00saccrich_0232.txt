@@ -1,0 +1,36 @@
+nuatio in directum praesuppositae cujusdam simplicis rec-
+tae AX non alia esse intelligitur praeter unam XD, quae
+ex aequo utrinque procedat relate ad laevam, ac dexteram
+partem praedictae AX; ex quo utique fiat, ut sub ea im-
+mota AX non aliam ipsa immutata habere possit in eo
+plano positionem. Quod autem in eodem plano alia quae-
+dam ad laevam decerni possit XM, infinite parum dissi-
+liens ab ipsa XD, nihil suffragatur. Nam rursum alia
+item ad dexteram designari poterit XF, quae uniformiter
+infinite parum dissiliat ab eadem XD. Quare (prout in
+praecitato Lemma-[82lte) illa sola AXD 'erit linea recta
+a nobis definita.
+
+Tertium tandem est: in hoc ipso secundo Lemmate
+censeri posse immediate demonstratam l. undecimi; quod
+nempe ejusdem rectae nequeat pars una quidem in sub-
+jecto plano existere, et altera in sublimi.
+
+LEMMA III.
+
+Si duae rectae AB, C X D sibi invicem occurrant (fiy. 39.)
+in aliquo ipsarum intermedio puncto X, non ibi se in-
+vicem contingent, secl una alteram ibidem secabit.
+
+Demonstratur. Si enim fieri potest, tota CXD ad
+unam eandemque partem ipsius AB consistat. Jungatur
+AC. Non erit porro AC eadem cum ipsa veluti con-
+tinuata AXC; quia caeterum (contra praecedens Lemma)
+duarum rectarum, unius AXC, et alterius praesuppositae
+DXC‚ unum idemque foret commune segmentum XC.
+Itaque jungatur BC. Non erit rursum haec BC continua-
+tio ipsius BA usque in punctum C; ne duae rectae, una
+XAC, portio ipsius ΒΑΕ, et altera XC spatium claudant,
+
+. contra praemissum Lemma primum. Igitur ea BC vel se·
+

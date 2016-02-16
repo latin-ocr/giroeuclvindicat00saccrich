@@ -1,0 +1,46 @@
+which u'nder yreater acute anyleS, even to a riyht
+anyle inclusive, have a common perpendicular in nvo
+distinct points with ΒΧ. [69]
+
+PROOF. First it holds (from Cor. ΙΙ. to P. XXIX.)
+that no determinate acute angle will χ χ
+be the greatest of all drawn under Ζ
+which a straight from the point A
+meets the aforesaid ΒΧ at a finite
+distance.
+
+Secondly, it holds in like manner
+that (in the hypothesis of acute angle)
+no acute angle will be the least of all
+drawn under which a straight has a Α
+common perpendicular in two distinct
+points with BX; since indeed (from what precedes)
+there can be no determinate limit, such that there cannot
+be found, under a lesser angle constituted at the point A,
+a common perpendicular in two distinct pointS‚ which is
+less than any assignable length R.
+
+And hence follows thirdly, that (in this hypothesis)
+there must be a certain determinate acute angle BAX,
+drawn under which AX so approaches ever more to EX,
+that only at an infinite distance does it meet it.
+
+But further that this AX is a limit in part from within
+in part from without of each of the aforesaid classes of
+straights is proved thus, First‚ it agrees with those
+straights which meet ΒΧ at a finite distance since it also
+finally meets; but it differS‚ because it meets only at an
+infinite distance.
+
+But secondly it also agrees with, and at the same time
+differs from those straights which have a common per—
+pendicular in two distinct points with BX; because it also
+has a common perpendicular with BX; but in one and the
+same point X infinitely distant. But this latter ought to
+
+    
+
+Fig. 33.
+
+171
+

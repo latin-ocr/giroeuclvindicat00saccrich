@@ -1,0 +1,25 @@
+pendiculum, ac propterea quae juxta assumptam Defini-
+tionem parallelae non sint, debeant ipsae in alterutram
+partem semper magis protractae inter se aliquando inci-
+dere, si non ad [55] finitam, saltem ad infinitam distan-
+tiam. Nam rursum demonstrare oporteret, quod duae
+quaelibet in eodem plano existenteS‚ in quas recta quae-
+piam incidens duos ad easdem partes internos angulos
+efficiat minores duobus rectiS‚ nusquam alibi possint ipsae
+recipere commune perpendiculum. Quod autem, hoc
+demonstratO, exactissime stabiliatur Geometria Euclidaea.
+infra constabit.
+
+PROPOSITIO XXVI.
+
+Si praedictae AX, ΒΧ (fiy. 31.) coire quidem inter se
+debeant, sed non nisi ad infinitam earundem produc-
+tionem versus partes punctorum X: Dico nullum
+fore assignabile punctum I in ipsa AB, ex quo per-
+pendicularis educta versus partes ipsius AX non
+occurrat ad finitam, seu terminatam distantiam eidem
+AX in aliquo puncto F.
+
+Demonstratur. Nam (ex praecedente hypothesi)
+unum aliquod erit in ipso AX punctum N, ex quo per·
+

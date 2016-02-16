@@ -1,0 +1,36 @@
+EUCLID FREED OF EVERY FLECK.
+
+BOOK I.
+
+IN WHICH IS PROVED: ANY TWO COPLANAR STRAIGHT
+LINES, FALLING UPON WHICI-I. ANY STRAIGHT MAKES
+TOWARD THE SAME PARTS TWO INTERNAL ANGLES
+LESS THAN Two RIGHT ANGLES, AT LENGTH MEET
+EACH OTHER TOWARD THOSE PARTS, IF INFINITELY
+PRODUCED.
+
+PART Ι.
+
+PROPOSITION I.
+
+If two equal straights [sects] (fiy. 1) AC, BD, make
+with the straiyht AB angles equal toward the same
+parts: I say that the anyles at C
+
+the join CD will be mutually v D
+
+equal.
+
+PROOF. Join AD, CB. Then >·⁴
+consider the triangles (ΖΑΒ, DBA.
+
+It follows (Eu. I. 4) that the bases Α 1:531, ¹⁵
+
+CB, AD will be equal.
+
+Then consider the triangles ACD, BDC. It follows
+(Eu. Ι. 8) that the angles ACD, BDC will be equal.
+Quod erat demonstrandum.
+
+19
+

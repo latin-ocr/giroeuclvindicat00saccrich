@@ -1,0 +1,30 @@
+PROPOSITIO ΙΙ.
+
+Manente uniformi quadrilatero ABCD, latera ΑΒ, CD,
+bifariam dividantur (fio. 2.) in punctis M, et H. Di-
+[2] co anyulos ad junctam M H fore hinc inde rectos
+
+Demonstratur. Jungantur AH‚ BH, atque item CM,
+DM. Quoniam in eo quadrilatero anguli A, et B positi
+sunt aequaleS‚ atque item (ex praecedente) aequales sunt
+anguli C, et D; constat ex quarta primi (cum alias nota
+sit aequalitas laterum) aequales fore in triangulis CAM‚
+DBM, bases CM, DM; atque item, in triangulis ACH‚
+BDH, bases ΑΗ, BH. Quare ; collatis inter se triangulis
+CHM, DHM, ac rursum inter se triangulis AMH, BMH;
+constabit (ex octava primi) aequales invicem fore, atque
+ideo rectos angulos hinc inde ad puncta M, et H. Quod
+erat demonstrandum. ·
+
+PROPOSITIO III.
+
+Si duae aequales rectae (fio. 3.) AC, BD, perpendicula-
+riter insistant cuivis rectae AB: Dico junctam C D
+aequalem fore, ant minorem, ant majorem ipsa AB,
+prout anyuli ad eandem C D, fuerint ant recti, ant
+obtusi, aut acuti.
+
+Demonstratur prima pars, Existente recto utroque
+angulo C, et D; sit, si fieri potest, alterutra ipsarum, ut
+DC, major altera BA. Sumatur in DC portio DK aequa-
+

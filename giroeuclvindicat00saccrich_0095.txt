@@ -1,0 +1,42 @@
+I. 16) is greater not alone than the right angle BPA but
+aISO, for the same reason, than any obtuse angle BXA,
+the point X being assumed wherever you choose within
+this PA, and indeed always greater as the point X is
+assumed nearer to the point A (Eu. I. 16): it is an
+evident consequence, [19] that between those angleS‚ one
+of 90 degrees at the point P, and the other of 92 degrees
+at the point A, one angle BXA is found, which is 91
+degreeS‚ truly equal to the given angle R.
+
+None the leSS‚ omitting here the last observation about
+the obtuse angle, it is necessary most diligently to take
+care that the difficulty of this assumption of Euclid be
+fixed in this, that it asserts the meeting of two straights;
+in particular in that part toward which they make with
+the cutting straight two angles together less than two
+right angles; and assuredly that it asserts the aforesaid
+meeting thuS‚ of whatever length be the assiyned trans-
+versal.
+
+However (as I have already mentioned in the pre-
+ceding scholion) I shall demonstrate the general meeting
+solely from the admitted meeting of this sort when one
+of the angles is right ; and indeed even if it be admitted
+not for any assignable finite transversal, but alone ad-
+mitted within ⁴the limits of any assigned very small⁴ trans-
+versal.
+
+PROPOSITION XIV.
+
+The hypothesis of obtuse anyle is absolutely false, be·-
+cause it destroys itself.
+
+PROOF. From the hypothesis of obtuse angle, as-
+sumed as true, we have now deduced the truth of Euclid's
+postulate: that two straights will meet each other in
+some point toward those parm, toward which a certain
+straight, cutting them, makes two internal angles, of
+whatever kind, less than two right angleS.
+
+59
+

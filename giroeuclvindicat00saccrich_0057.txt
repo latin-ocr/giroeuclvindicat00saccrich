@@ -1,0 +1,46 @@
+PROPOSITION ΙΙ.
+
+Retainin9 the uniform quadrilateral ΑΒΕ D, bisect the
+sides AB, CD (fiy. 2) in the points M and H. [2]
+
+I say the anyles at the join c ἢ D
+MH witz then be right. vv
+PRO0F. Join AH, BH, and
+likewise CM, DM. Δ Δ
+Because in this quadrilateral A n 3
+the angles A and B are taken Fig 2
+
+equal and likewise (from the
+preceding proposition) the angles C, and D are equal; it
+follows (Eu. 1. 4) (noting the equality of the sides) that
+in the triangles CAM, DBM, the bases CM, DM will be
+equal; and likewise‚ in the triangles ACH, BDH, the
+bases AH, BH.
+
+Therefore; comparing the triangles CHM, DHM,
+and in turn the triangles AMH, ΒΜΗ; it follows (Eu.
+I. 8) that we have mutually equal, and therefore right,
+the angles at the points M, and H.
+
+Quod erat demonstrandum. ’
+
+PROPOSITION III.
+
+If two equal stra‘iyhts [sects] (fig. 3) AC, BD, stand
+perpendicu-lar to any straiyht ΑΒ ; I say the join
+CD will be equal to, or
+IeSS, or φθαῖεν than AB,
+accordiny as the anyles ²⁴
+at CD are riyht‚ or ob-
+tuse, or acute.
+
+Χ
+
+     
+
+PROOF OF THE FrRs'r
+PART. Each angle C, and D, Α p ῃ Β
+being right; suppose, if it ,Fig. 3.
+were possible, either one of those, as DC, greater than
+the other BA.
+

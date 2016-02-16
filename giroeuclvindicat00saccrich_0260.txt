@@ -1,0 +1,39 @@
+talis curva, ex hypothesi anguli acuti enascenS, censenda
+sit aequalis contrapositae basi AB. Atque id est, quod
+nova hac methodo iterum demonstrandum susceperam. .
+
+SCHOLION II.
+
+Rursum· vero: quoniam recta BA intelligitur succes-
+sive descripta a punctis semicircumferentiae BLD motu
+illo semper aequabili, et continuo; cui nempe descriptioni
+correspondet descriptio illius lineae DKC a punctis dia-
+metraliter coi-relativis alterius semicircumferentiae BHD:
+obvium est intelligere, quod ipsa recta BA motu illo sem-
+per aequabili, et continuo describatur ab eo unico puncto
+B, quod nempe (veluti replicatum) intelligatur cum ipsa
+tali semicircumferentia semper excurrere super ea BA;
+dum interim eodem ipso tempore, motu eodem semper
+aequabili, et continuO, describitur illa altera DKC ab
+altero diametraliter correlativo unico puncto D, quod
+ipsum rursum (veluti replicatum) intelligatur cum sua
+altera semicircumt'erentia BHD semper excurrere super
+praedicta DKC. Tunc autem facilius intelligitur intenta
+aequalitas inter eam DKC‚ et eidem contrapositam rectam
+'BA; quippe quae duae aequali ipso ternpore, et aequali
+motu intelliguntur descriptae a duobus exactissime inter
+se aequalibus punctiS‚ seu mavis infinitesimiS. Ubi constat
+hanc ipsam exactissimam praedictorum punctorum aequa-
+litatem non esse mihi in ista nova contemplatione neces-
+sariam. [95]
+
+PROPOSITIO XXXVIII.
+
+H ypothesis anguli acuti est absolute falsa, quia se ipsam
+destruit.
+
+Demonstratur. Nam supra ex ipsa hypothesi anguli
+acuti evidenter elicuimuS‚ curvam CKD (fig. 46.) ex ea
+
+224
+

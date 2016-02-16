@@ -1,0 +1,46 @@
+said figure as given. That Euclid is not guilty of this error
+is clear from the fact that he never presupposes the existence
+of the square as defined until after Ι. 46.
+
+Confusion between the nominal and the real definition
+as thus described, i. e., the use of the former in demon-
+stration before it has been turned into the latter by the
+necessary proof that the thing defined exists, is, according
+to Saccheri, one of the most fruitful sources of illusory
+demonstration, and the danger is greater in proportion to
+the “complexity'' of the definition, i. e., the number of vari-
+ety of the attributes belonging to the thing defined. For
+the greater is the possibility that there may be among the
+attributes some that are incompatible, i. e., the simultaneous
+presence of which in a given figure can be proved, by means
+of other postulates, etc., forming part of the basis of the
+science, to be impossible.
+
+This signal anticipation of Mill’s famous distinction
+would alone justify the only known protagonist of the
+Loyica demonstrativa hitherto, Vailati‚ in saying of Sac-
+cheri: “This gives him the right to an eminent place in the
+history of modern logic.''
+
+But in additional elaboration Saccheri broadens the mat-
+ter, clearly recognizing the more general question relative
+to the necessity of excluding the possible existence of in-
+compatibility among the fundamental postulates made the
+basis of a demonstrative science3 and not merely their
+directly contradicting one another, but whether the falsity
+of one of them could be proved by means of the otherS‚
+a thing not directly recognizable.
+
+These questions, far from having grown old, are ac-
+quiring an ever greater importance with the accentuation
+of the modern tendency to regard as the function of mathe-
+matics, the development, logically coherent, of the conse-
+quences flowing from a given system of premises‚ whether
+or no these be susceptible of a direct interpretation or ex-
+perimental verification.
+
+Since actually, in this case, the postulates assume the
+character of simple hypotheses subject only to the condition
+
+xix
+

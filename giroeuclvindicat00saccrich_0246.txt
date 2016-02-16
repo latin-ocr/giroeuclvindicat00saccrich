@@ -1,0 +1,32 @@
+niendis punctis inter puncta C, et K, idem etiam unifor-
+miter valet pro inveniendis punctis inter puncta K, et D,
+scilicet cur-[88]va CKD, enascens ex hypothesi anguli
+acuti, est linea jungens extremitates omnium aequalium
+perpendiculorum super eadem basi versus eandem partem
+erectorum, quae utique venire possunt sub nomine recta-
+rum ordinatim applicatarum ; est, inquam, linea ejusmodi,
+quae propter ipsam, ex qua nascitur, hypothesim anguli
+acuti, semper est cava versus partes contrapositae basis
+AB. Quod quidem hoc loco declarandum, ac demon-
+strandum a nobis erat.
+
+PROPOSITIO XXXV.
+
+Si ex quolibet puncto L basis ΑΒ ordinatim applicetur ad
+eam curvom C ΚΖ) recta LF : Dico rectam N FX per-
+pendicularem ipsi LF cadere totam ex utraque parte
+debere versus partes convexas ejusdem curvae, atque
+ideo eam fore ejusdem curvae tangentem.
+
+Demonstratur. Si enim fieri potest, cadat quoddam
+punctum X (fig. 43.) ipsius NF X intra cavitatem ejus-
+dem curvae. Demittatur ex puncto X ad basim AB per-
+pendicularis XF, quae protracta per X occurrat curvae in
+quodam puncto R. Jam sic. In quadrilatero LFXP non
+erit angulus in puncto X aut rectUS, aut obtusus: Caete-
+rum (ex 5. et 6. hujus) destrueretur praesens hypothesis
+anguli acuti. Ergo praedictus angulus erit acutus. Quare
+erit PX (ex Cor. Ι. post 3. hujus) et sic multo magis PR
+major ipsa LF. ¹Hoc autem absurdum est (ex praece-
+dente) contra naturam istius curvae. Itaque illa NF pro-
+

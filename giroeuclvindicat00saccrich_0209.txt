@@ -1,0 +1,44 @@
+be considered demonstrated in P. XXVIII.‚ as Ι point
+out in its corollary.
+
+Therefore it holds, that (in the hypothesis of acute
+angle) there will be a certain determinate acute angle
+BAX‚ drawn under which AX only at an infinite distance
+meets [70] ΒΧ, and thus is a limit in part from within,
+in part from without3 on the one hand of all those which
+under lesser acute angles meet the aforesaid ΒΧ at a
+finite distance3 on the other hand also of the others which
+under greater acute angleS, even to a right angle inclusive,
+have a common perpendicular in two distinct points
+with ΒΧ.
+
+Quod erat ete.
+
+PROPOSITION XXXIII.
+
+The hypothesis of acute anyle is absolutely false‚· because
+repuynant to the nature of the straiyht line.
+
+PROOF. From the foregoing theorem may be estab-
+lished, that at length the hypothesis of acute angle inim-
+ical to the Euclidean geometry has as outcome that we
+must recognize two straights AX, ΒΧ, existing in the
+same plane, which produced in infinitum toward the parts
+of the points X must run together at length into one and
+the same straight line, truly receiving, at one and the
+same infinitely distant point a common perpendicular in
+the same plane with them.
+
+But since I am here to go into the very first principle&
+I shall diligently take care, that I omit nothing objected
+almost too scrupulously‚ which indeed I recognize to be
+opportune to the most exact demonstration.
+
+LEMMA Ι.
+Two straiyht lines do not inclose a space.
+
+Euclid defines a straight line as one which lies evev'ss
+between its points.
+
+173
+

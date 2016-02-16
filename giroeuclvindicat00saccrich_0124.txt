@@ -1,0 +1,35 @@
+demonstrat quadrati prout ab ipso definiti, a data recta
+linea descriptionem. Simili igitur modo reprehendi ne-
+quit EuclideS, quod rectas lineas parallelas eo tali modo
+definiverit, cum eas nusquam ad constructionem ullius
+Problematis assumat tanquam dataS, nisi post Prop. 31.
+lib. primi, in qua Problematice demonstrat, quo pacto
+a dato extra datam rectam lineam puncto duci debeat
+recta linea eidem parallelo, et quidem juxta definitionem
+ab eo traditam parallelarum, ita nt nempe in infinitum
+protractae in neutram partem sibi invicem occurrant:
+Quodque amplius est; id ipsum demonstrat sine ulla de-
+pendentia a Pronunciato hic controverso, Itaque Eucli-
+des sine ulla petitione principii demonstrat reperiri posse
+in natura duas tales lineas rectas, qnae (in eodem plano
+consistentes) in utramque partem in infinitum protractae
+nunqnam concurrant; ac propterea cognitam nobis evi-
+denter facit eam passionem, per quam rectas lineas paral-
+lelas definit.
+
+Pergamus porr0‚ quo nos invitat diligens Euclidis ac-
+cusator. Parallelas rectas lineas appellat duas quaslibet
+[33] rectas AC, BD, quae perpendiculariter ad easdem
+partes (fig. apud me 21.) insistant uni cuidam rectae AB.
+Nihil moror, quin definitio ejusmodi exposita sit per pas-
+sionem (ut ipse ait) possibilem, et evidentissimam3 curn
+(ex undecima primi) a quolibet in data recta puncto ex-
+citari possit perpendicularis,
+
+Verum hanc ipsam et possibilitatem, et evidentiam
+jam demonstravi circa definitionem traditam ab Euclide.
+Quare unice restat, ut conferatur notum illud Pronuncia-
+tum Euclidaeum cum altero itidem Pronunciat0‚ quod
+
+88
+

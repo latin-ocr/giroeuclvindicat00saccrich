@@ -1,0 +1,45 @@
+all the angles of the triangles ADB, CDB will be together
+
+equal to four right angleS, because of the two additional
+’ right angles at the point D. This holding good, now of
+neither of the said triangleS, as suppose ADB, will the
+three angles together be leSS‚ or greater than two> right
+angles; for thus vice versa the three angles together of
+the other triangle would be greater, or less than two right
+angles, Wherefore (P. IX.) from one triangle would
+indeed be established the hypothesis of acute angle, and
+from the other the hypothesis of obtuse angle; [21] which
+is contrary to P. VI. and P. VII.
+
+Therefore the three angles together of either of the
+aforesaid triangles will be equal to two right angles ; and
+thereby (P. IX.) is established the hypothesis of right
+angle.
+
+Quod erat primo loco demonstrandum.
+
+But if however the three angles of the proposed tri-
+angle ΑΒΕ are taken greater than two right angles: now
+of the two triangles ADB, CDB all the angles together
+will be greater than four right angleS, because of the two
+additional right angles at the point D.
+
+This holding good: now of neither of the said tri-
+angles will the three angles together be precisely equal
+to, or less than two right angles: for thus vice versa
+the three angles of the other triangle would be together
+greater than two right angleS. Wherefore (P. IX.)
+from one triangle indeed would be established the hypoth-
+esis either of right angle or of acute angle, and from the
+other the hypothesis of obtuse angle, which is contrary
+to Propp. V„ VI„ and VII.
+
+Therefore the three angles together of either of the
+aforesaid triangles will be greater than two right angles;
+and therefore is established the hypothesis of obtuse
+angle.
+
+Quod erat secundo loco demonstrandum.
+
+63
+

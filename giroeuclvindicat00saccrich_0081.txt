@@ -1,0 +1,32 @@
+Wherefore (Eu. Ι. 19) the join DA will be greater
+than the join DS, and the join supposed equal to it DM.
+
+Quod erat secundo loco demonstrandum. Itaque con-
+stant proposita. [13]
+
+PROPOSITION XI.
+
+Let the straiyht ΑΡ (as lony as you choose) cut the two
+straights PL, AD (fiy. 9), the first indeed at right
+angles in P, but the latter at A in any acute angle
+converyiny toward the parts PL. I say the straiyhts
+AD, PL (in the hypothesis of riyht anyle) will at
+lenyth meet in some point, and indeed at a finite, or
+terminated distance, if they are prolonyed toward
+those parts on which they make with the transversal
+ΑΡ two anyles together less than two riyht anyleS.
+
+PROOF. Prolong DA toward the other parts even to
+some point X, and through A erect to AP the perpendic-
+ular HAC, the point H being toward the parts of the
+angle XAP.
+
+ 
+
+Then in AD produced toward the parts of PL assume
+two equal intervals AD, DF, and let fall upon the trans-
+versal ΑΡ the perpendiculars DB, F M, which certainly
+(Eu. I. 17) fall toward the parts of the acute angle DAP;
+
+4⁵
+

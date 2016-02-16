@@ -1,0 +1,45 @@
+But that the thing goes otherwise in the hypothesis of
+acute angle, follows from what is said above.
+
+From this scholion therefore and from the other after
+P. XIII. may be realized‚ that a wholly different way
+was to be taken in refuting each false hypothesiS, one of
+obtuse angle, and the other of acute angle.
+
+Moreover it is easy in like manner to recognize from
+these, that it can only be a straight line CD, which in all
+
+its points is equidistant from the assumed straight line
+AB. [97]
+
+PROPOSITION XXXIX.
+
+I f upon two straiyht lines another straight striking makes
+toward the same parts aaz-oles less than two riyht
+anyles, those two straight lines produced in infinitum
+meet each other toward those parts where are the
+angles less than two riyht anyleS.
+
+This is the famous Euclidean axiom, which at length
+I undertake absolutely to demonstrate.
+
+For this end however it will be sufficient to recall
+some of the preceding demonstrationS. Therefore in my
+propositionS, up to P. VII. inclusive, I have distinguished
+three hypotheses about the straight joining the extreme
+points of two equal perpendicularS, which stand upon
+a certain straight, that I call base, in the same plane.
+
+Furthermore in regard to these hypotheses (which in
+turn I distinguish from the species of the angleS, which
+are supposed to be made at the join) I demonstrate that
+any one of them, forsooth either of right angle, or obtuse
+angle, or acute angle. alone is true always and in every
+case, if even in one case it be true.
+
+Then in P. XIII. I show the universal truth of the
+controverted axiom, when occurs either the hypothesis
+of right angle, or of obtuse angle.
+
+231
+

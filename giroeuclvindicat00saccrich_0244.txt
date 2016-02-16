@@ -1,0 +1,29 @@
+LIBRI PRIMI PARS ALTERA.
+
+IN QUA IDEM PRONUNCIATUM EUCLIDAEUM CONTRA
+HYPOTHESIN ANGULI ACUTI REDARGUTIVE DEMON-
+STRATUR.
+
+PROPOSITIO XXXIV.
+
+In qua expenditur curva quaedam enascens ex hypothesi
+anyuli acuti.
+
+Recta CD jungat aequalia perpendicula AC, BD cui-
+dam rectae AB insistentia. Tum divisis bifariam in punc-
+tis M, et H (fig. 42.) ipsis AB, (ΣΙ), jungatur MH (ex
+2. hujus) utrique perpendicularis, Rursum in hae hypo-
+thesi supponuntur acuti anguli ad junctam CD. Quare
+in quadrilatero AMHC erit MH (ex Cor. Ι. post 3. hujus)
+minor ipsa AC. Hinc autem3 si in MH protracta sumas
+MK aequalem ipsi AC; puncta C, K, D, spectabunt ad
+curvam hie expensam. Deinde anguli ad junctam CK
+erunt et ipsi (ex 7. hujus) acuti. Igitur juncta LX, quae
+bifariam, atque ideo (ex 2. hujus) ad angulos rectos divi-
+dat ipsas AM, CK, erit similiter (ex Cor. I. post 3 hujus)
+minor eadem AC. Quapropter; si in LX protracta sumas
+LF aequalem ipsi AC, aut MK; etiam punctum F spec-
+tabit ad eam curvam. Praeterea jungens CF, et FK in- -
+venies similiter duo alia puncta ad eandem curvam spec-
+tantia. Atque ita semper. Quod autem dico pro inve-
+

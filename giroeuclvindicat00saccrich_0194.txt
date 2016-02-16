@@ -1,0 +1,35 @@
+certo limite ad aequalitatem cum angulo rect0, quoties
+nempe illa AC non nisi ad infinitam distantiam occursura
+putetur ipsi ΒΧ. Igitur deveniri posset ad talem ordina-
+tam KMD, adquam angulus AMK minus superaret an-
+gulum rectum, quam sit ille angulus DAC, Tune autem
+angulus DAC, sive DAM, una cum angulo AMD major
+erit uno recto, Quare ; addito obtuso angulo ADM; tres
+simul anguli trianguli ADM majores erunt duobus rectiS,
+quod est contra hypothesin anguli acuti. Igitur omnis
+recta AC, quae secet illum angulum BAX, aliquando ad
+finitam, seu terminatam distantiam (etiarn in hypothesi
+
+anguli acuti) occurret ipsi ΒΧ in quodam puncto P.
+Quod ete. [64]
+
+COROLLARIUM 1.
+
+Hinc nulla AZ, quae versus partes punctorum X angu-
+lum acutum efficiat majorem illo BAX, occurrere unquam
+poterit, sive ad finitam sive ad infinitam distantiam ipsi
+ΒΧ. Quatenus enirn ita contingeret, jam illa AX, divi-
+dens angulum BAZ, deberet (contra praemissam suppo-
+sitionem) ad finitam distantiam occurrere ipsi BX ; prout
+
+demonstratum id est de recta AC dividente angulum
+BAX.
+
+COROLLARIUM ΙΙ.
+
+Praeterea sequitur nullum fore determinatum acutum
+angulum omnium maximum, sub quo educta ex puncto
+A ad finitam distantiam occurrat illi ΒΧ. Si enim ver-
+sus partes puncti X punctum quodvis assumaS, quod sit
+altius puncto P, constat rectam jungentem punctum A
+

@@ -1,0 +1,44 @@
+by Saccheri under the name of fallaciae duplicis hypothesis
+are precisely those which consist in believing that conse-
+quences worth considering can be deduced from systems of
+hypotheses incompatible with one another (to wit, such
+that among them are some whose negation can be deduced
+from the others) ; and of such he passes in review various
+typeS‚ beginning with the simplest, namely, that of a syllo-
+gism whose premises directly contradict one another, and
+going on to the more complicated cases in which the contra—
+diction can be revealed only by the successive development
+of the consequences os the system of hypotheseS, or postu-
+lates, assumed as basis of the entire matter.
+
+In the investigation of the independence of postulates the
+method consists in finding a case or a particular interpre-
+tation in which the proposition we wish to prove not dedu-
+cible from others given, ceases to be true while all the others
+remain true. If such is found, we conclude that the propo-
+sition cannot be deduced from these otherS, else it would be
+true whenever they were.
+
+This use and construction of examples to show the
+independence of a certain proposition from others given
+has of late assumed the importance of an ordinary and
+indispensable procedure in the strictly rigorous elaboration
+of any deductive theory (in America, Robert L. Moore,
+Huntington, Veblen, and others). But Saccheri was the
+first to use this procedure, and constructs his example with-
+out leaving the field of formal logie. If his treatment of
+his “hypothesis of acute angle'' is another case, it is the most
+marvelous in the world. ν
+
+In his Opus de proportionibus (lib. V, prop. 201),8
+Cardan (born at Pavia, 1501), to prove that two sides of
+a certain triangle he has occasion to consider are greater
+than a certain arc of a circle comprised between them, adopts
+a peculiar reasoning and vaunts himself of this singular
+procedure as an extraordinary discovery of his own:
+
+&Cardani Opera, Lugduni [Lyons], 1663, t. IV, p. 579, published
+by spon in ten volumeS, folio.
+
+ὃ xxi
+

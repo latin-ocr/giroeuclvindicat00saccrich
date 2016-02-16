@@ -1,0 +1,28 @@
+PROPOSITIO XXIV.
+
+Iisdem manentibus: Dico quatuorsimul angulos ( ᾖς. 27.)
+quadrilateri KDHK proximioris basi AB minores·
+esse (in hypothesi anyuli acuti) quatuor simul ana
+gulis quadrilateri KH LK remotioris ab eadem basi,
+atque ita quidem, sive illae duae AX, ΒΧ aliquando
+ad finitam distantiam incidant versus partes puncti
+X ; sive nunquam inter se incidant; sed versus eas
+partes aut semper magis ad se invicem accedant, aut
+aliquando recipiant commune perpendiculum, post
+quod nempe (juxta Cor. II. praee. PropoS.) ad eas-
+dem partes incipiant invicem dissilire.
+
+Demonstratur. Verum hic supponimus portiones KK
+sumptas esse invicem aequales. Quoniam igitur (ex prae-
+[49lcedente) latus DK majus est latere HK, ac similiter
+HK majus latere LK; sumatur in HK portio MK aequalis
+ipsi LK, et in DK portio NK aequalis ipsi HK; jungan-
+turque MN, MK, LK; nimirum punctum K intermedium
+cum puncto L, et punctum K vicinius puncto B cum
+puncto M. Jam sic progredior. Quandoquidem latera
+trianguli KKL (initium semper ducam a puncto K vici-
+niore puncto B) aequalia sunt lateribus trianguli KKM.
+et anguli comprehensi aequaleS‚ utpote recti; aequales
+etiam erunt (ex 4. primi) bases LK, MK ; atque item
+aequaleS, qui correspondent invicem anguli, ad easdem
+

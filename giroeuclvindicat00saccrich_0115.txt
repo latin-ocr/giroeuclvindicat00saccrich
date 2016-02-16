@@ -1,0 +1,52 @@
+this DB produced outwardly. Therefore AM and CM
+being joined, the angle AMC will be acute, because less
+(Eu. Ι. 21) than the angle ABG, which is assumed right.
+
+Therefore (from the preceding proposition) is estab-
+lished the hypothesis of acute angle.
+
+Quod erat tertio loco demonstrandum.
+
+Itaque constant omnia proposita. [28]
+
+PROPOSITION XX.
+
+Let there be a trianyle ΛΟΜ (fiy. 19) riyht-cmyled at C.
+Then from the point Β bisectiny this AM let fall the
+perpendicular BD to AC. I say this perpendicular
+will not be (in the hypothesis of acute angle) greater
+than half the perpendicular MC.
+
+PROOF. For let DB be produced to DH double DB.
+Therefore DH would be (if DB be
+greater than the aforesaid half)
+greater than CM, and therefore
+equal to a certain continuation
+
+CMK.
+
+Join AH, HK, HM, MD. Now
+we proceed thuS. Since in the tri-
+angles HBA, DBM, the sides HE,
+BA are assumed equal to the sides
+
+ 
+
+DB, BM; and (Eu. Ι. 15) the Ρ
+angles at the point B are equa13
+the base HA also (Eu. Ι. 4) will be equal to the base
+
+MD. Then, by the same reasoning‚ in the triangles
+
+HBM, DBA, the bases HM, DA will be equal. Where-
+fore in the triangles MHA‚ ADM, the angles MHA,
+ADM (Eu. Ι. 8) will be equal.
+
+Again in the triangles AHB, MDB, the residual angle
+MHB will remain equal to the residual right angle ADB.
+Therefore the angle MHB will be right. But this is ab·
+
+79
+
+F ig. 19.
+

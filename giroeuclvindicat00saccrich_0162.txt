@@ -1,0 +1,32 @@
+bases‚ nimirum angulus KLK angulo KMK, et angulus
+LKK angulo MKK. Igitur aequales etiarn sunt residui
+NKM, et HKL. Quare, curn latera NK, KM, trianguli
+NKM aequalia itidem sint lateribus HK, KL trianguli
+HKL3 aequales etiam erunt (ex eadem 4. primi) bases
+NM, HL; anguli KNM, KHL3 ac tandem anguli KMN‚
+KLH. Sunt autem in prioribus triangulis jam probati*
+aequales anguli KLK, et KMK. Igitur totus angulus
+NMK aequalis est toti angulo HLK. Quare, cum omnes
+ad puncta K anguli sint recti, manifeste consequitur om-
+nes simul quatuor angulos quadrilateri KNMK aequales
+esse omnibus simul quatuor angulis quadrilateri KHLK.
+Quoniam vero duo simul anguli ad puncta N, et M in
+quadrilatero KNMK majores sunt, in hypothesi anguli
+acuti, duobus simul angulis (ex Cor. post XVI. hujus) ad
+puncta D, et H in quadrilatero NDHM‚ seu quadrilatero
+KDHK; consequens inde est, ut (additis communibus
+rectis angulis ad puncta K) quatuor simul anguli quadri-
+lateri KNMK‚' seu quadrilateri KHLK, majores sint (in
+
+hypothesi anguli acuti) quatuor simul angulis quadrilateri
+KDHK. Quod erat demonstrandum. [50]
+
+COROLLARIUM.
+
+Sed opportune observari hic debet, nihil defuturum
+factae argumentationi, quamvis angulus ad punctum L
+poneretur rectuS‚ juxta hypothesin anguli acuti. Nam
+adhuc illa communis perpendicularis LK minor foret (ex
+Cor. I. post III. hujus) altera perpendiculari HK, ex qua
+propterea sumi adhuc posset portio MK aequalis prae-
+

@@ -1,0 +1,46 @@
+But if however the angle CAD‚ or its vertical XAH,
+be leSS, or greater than the internal or opposite ADB;
+also the join CD will be (Eu. I. 24) less or greater than
+AB ; and therefore (P. IV.) will be true respectively the
+hypothesis of obtuse angle, or acute angle. ’
+
+Quae omnia erant demonstranda.
+
+PROPOSITION IX.
+
+In any riyht-anyled trianyle the two acute anyles re-
+maining are, take-n together, equa-l to one riyht magde,
+in the hypothesis of right anyle,· φθαῖεν than one
+riyht angle, in the hypothesis of obtuse anyle,· but
+less in the hypothesis of acute anyle.
+
+PROOF. For if the angle XAH (fig. 7) is equal to
+the angle ADB, which is certain from the preceding
+proposition in the hypothesis of right angle, then the
+angle ADB makes up with the angle HAD two right
+angleS‚ as (Eu. Ι. 13) the aforesaid angle XAH makes
+them up with this angle HAD. Wherefore, the right
+angle HAB being subtracted, the two angles ADB and
+BAD remain together equal to one right angle.
+
+Quod erat primum.
+
+However, if the angle XAH is less than the angle
+ADB, which is certain from the preceding proposition
+in the hypothesis of obtuse angle, then the angle ADB
+makes up with the angle HAD more than two right
+angleS, since with it (Eu. Ι. 13) the angle XAH makes
+up two. Wherefore, the angle HAB being subtracted,
+
+the two angles ADB and BAD will be together greater
+than one right angle.
+
+Quod erat secundum.
+
+Finally, if the angle XAH be greater than the angle
+ADB, which is certain from the preceding proposition
+in the hypothesis of acute angle, then the angle ADB will
+make up less than two right angles with the angle HAD,
+
+41
+

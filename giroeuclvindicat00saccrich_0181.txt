@@ -1,0 +1,47 @@
+some point L. But now it holds that there may be as-
+sumed in KB portions KK each equal to a certain assign-
+able length R, and these more than any assignable finite
+number; since indeed the point B can be situated‚ in
+accordance with the present supposition‚ at however great
+a distance from this point A.
+
+And accordingly from the other points K are erected
+
+to AB perpendiculars KH, KD, KP, which all (from
+the aforesaid corollary) meet the straight AX in certain
+
+· points H, D, P; and so about the remaining points K
+
+uniformly designated toward the point B.
+
+It holds secondly (from Eu. I. 16) that the angles
+at the points L, H, D, P will all be obtuse toward the
+parts of the points X; and just so (from Eu. Ι. 13) the
+angles at the aforesaid points will all be acute toward
+the point A.
+
+Therefore (from Cor. ΙΙ. to P. ΙΙΙ.) the side KH
+will be greater than the side KL; the side KD greater
+than the side KH 3 and so always proceeding toward the
+points X.
+
+It holds thirdly that the four angles together of the
+quadrilateral KLHK will be greater than the four angles
+together of the quadrilateral KHDK: for this in like case
+has already been demonstrated in P. XXIV.
+
+It holds fourthly that the same is valid likewise of
+the quadrilateral KHDK in relation to the quadrilatera]
+KDPK; and so on alwayS, proceeding to quadrilaterals
+[58] more remote from this point A.
+
+Since therefore are present (as in P. XXV.) as many
+quadrilaterals described in the aforesaid mode, as there
+are, except the first LK, perpendiculars let fall from points
+of AX to the straight AB, it will hold uniformly (if we
+assume nine perpendiculars of this sort let fall, besides
+the first) the sum of all the angles which are compre-
+hended by these nine quadrilaterals will exceed 35 right
+
+145
+

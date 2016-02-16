@@ -1,0 +1,39 @@
+circumferentiam spectanS‚ perveniat ad congruendum ipsi
+puncto A, ita ut propterea punctum B, ejusdem semicir-
+cumferentiae alterum extremum punctum, deveniat ad
+congruendum illi puncto C.
+
+His stantibus 3 si in semicircumferentia BLD designe-
+tur quodvis punctum L, cui in descripta recta linea BA
+correspondeat punctum M, ex quo in eo tali plano edu-
+catur perpendicularis MK, aequalis ipsi BD: Dico illud
+punctum K fore ipsum punctum H diametraliter opposi-
+tum illi puncto L. Nam ibi in puncto M, sive L recta AB
+continget praedictum circulum. Igitur MK eidem AB
+perpendicularis transibit (ex 19. tertii, quae utique in-
+dependens est ab Axiomate controverso) per centrum
+ejusdem circuli. Quare ; ubi punctum L in ea tali circuli
+BLDH revolutione perveniat ad congruendum cum
+puncto M ipsius AB, etiam punctum H, diametraliter
+oppositum praedicto puncto L, incidet in punctum K
+illius MK.
+
+Porro constat idern similiter valere de reliquis punctis
+semicircumferentiae BLD, et horum diametraliter cor-
+relativis in altera semicircumferentia BHD. Quare linea,
+eo tali modo successive descripta a punctis semicircum-
+ferentiae BHD, erit illa eadem jam expensa DKC, quae
+nempe suis omnibus punctis aequidistet ab illa recta BA3
+sitque idcirco (juxta hypothesin anguli acuti) semper
+cava versus partes ejusdem AB.
+
+Inde autem fit, ut punctum M in ea BA censendum sit
+exactissime aequale puncto K in altera DKC, propter[94]
+⁷omnimodam istorum aequalitatem cum punctis L, et H
+diametraliter oppositis in eo circulo BLDH. Quare; cum
+idem valeat de omnibus punctis descriptae rectae BA, si
+conferantur cum aliis uniformiter contrapositis in prae-
+dicta supposita curva DKC ; consequens plane est, ut ipsa
+
+222
+

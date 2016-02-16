@@ -1,0 +1,43 @@
+Finally, however; since FS is greater (by Eu. I. 19)
+than QS and so much greater than BT or CN, assume
+in F S the piece IS equal to CN, and from the point Ι
+erect to FS the perpendicular IR meeting AS in the
+point R.
+
+But the point R falls between the points A and S:
+for if it fell on any point of AF, we would have in the
+same triangle (against Eu. I. 17) two angles greater
+than two right angleS, since the angle at the point F
+toward the parts of the point A has already been shown
+obtuse.
+
+After so much preparation thus I conclude. Since
+in the quadrilateral AOIR the angles at the points O and Ι
+are right, and the angle at the point A (by Eu. Ι. 17)
+is acute because of the right angle AOS, and again the
+angle IRA (by Eu. Ι. 16) is obtuse, [62] since the angle
+RIS is right: the consequence finally is (by Cor. ΙΙ. to
+P. III.) that the side AO is greater than the side IR.
+
+But (OQ joined) the side ΑΩ is greater (by Eu.
+Ι. 19) than the side Ao, because of the obtuse angle at
+O, since the angle AOS was made right.
+
+Therefore the straight AQ will be much greater than
+the straight IR, or (by Eu. Ι. 26) than the straight MC,
+and so much greater than the straight AB, the part than
+the whole; which 1s absurd.
+
+Therefore it is not possible to assign any one angle
+MNC, than which always is greater, or anyhow not leSS,
+the excess of each of the aforesaid obtuse angles above
+a right angle. ,
+
+Wherefore those obtuse angleS, more and more dis-
+tant from this point A, ever more without any certain
+limit approach to equality with a right angle.
+
+Quod erat postremo loco demonstrandum.
+
+196
+

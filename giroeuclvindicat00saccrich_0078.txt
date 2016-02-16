@@ -1,0 +1,32 @@
+[12ltertia primi) angulus XAH. Quare, dempto angulo
+
+recto HAB, minores erunt uno recto duo simul anguli
+ADB, et BAD. Quod erat tertium.
+
+PROPOSITIO X.
+
+Si recta DB (fiy. 8.) perpendiculariter insistat cuidam ,
+
+ΑΒΜ, sitque juncta DM major juncta DA, etiam
+basis ΒΜ major erit basi ΒΑ. Et vicissim.
+
+Demonstratur. Et primo quidem non erunt illaebases
+invicem aequales, Caeterum (ex quarta primi) aequales
+forent, contra hypothesim, ipsae AD, DM. Sed neque
+erit BA major quam ΒΜ. Caeterum, sumpta in BA por-
+tione BS aequali ipsi ΒΜ, junctaque SD, aequales forent
+(ex eadem quarta primi) anguli BSD, BMD: Est autem
+angulus BSD (ex decimasexta primi) major angulo
+BAD. Ergo eodem major foret angulus BMD. Hoc
+autern est contra decimamoctavam primi 3 cum latus DM
+in triangulo MDA supponatur majus latere DA. Restat
+igitur, ut basis ΒΜ major sit basi BA. Quod erat primo
+loco demonstrandum. ’
+
+Deinde si alterutra basiS‚ ut puta BA (ne immutetur
+figura) fingatur major altera BM; tunc juncta DS, quae
+ex BA abscindat portionem SB aequalem ipsi ΒΜ, aequa-
+lis erit (ex quarta primi) junctae DM. Rursum obtusus
+erit (ex decimasexta primi) angulus DSA, et acutus (ex
+decimaseptima ejusdem primi) angulus DAS. Quare (ex
+

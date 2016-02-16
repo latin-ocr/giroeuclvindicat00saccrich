@@ -1,0 +1,44 @@
+PROPOSITION XXIV.
+
+The same remaininyz I say the four angles toyether
+(fiy. 27) of the quadrilateral KDHK nearer the
+base AB arerless (in the hypothesis of acute anyle)
+than the four angles together of the quadrilateral
+KHLK more remote from the same base3 and in-
+deed this is sa, whether those two AX, ΒΧ some-
+where at a finite distance meet toward the parts os
+the point X ; or never meet one
+anathem but toward those parts
+either ever more mutually ap·
+proach each other, or some-
+where receive a common per-
+pendicular, after which of
+course (in accordance with Cor.
+II. of the preceding proposi-
+tion) toward the same parts Fig. ²7·
+they beyin mutually to separate.
+
+ 
+
+· PRoOF. Here however we suppose the portions KK
+
+assumed to be mutually equal. Since therefore (from'
+the preceding) [49] the side DK is greater than the side
+HK, and similarly HK greater than the side LK, the
+portion MK in HK is assumed equal to LK, and in
+DK the portion NK equal to HK; and MN, MK, LK
+are joined, truly the intermediate point K with the point
+L, and the point K nearer to the point B with the point M.
+
+Now I proceed thus,
+
+Since indeed the sides of the triangle KKL (I make
+beginning always from the point K nearer to the point Β)
+are equal to the sides of the triangle KKM, and the in-
+cluded angles equal‚ as being right, equal also will be
+
+(from Eu. I. 4) the bases LK, MK, and likewise equal
+the angles which correspond mutually, at these baseS,
+
+125
+

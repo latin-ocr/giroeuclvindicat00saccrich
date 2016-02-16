@@ -1,0 +1,43 @@
+tually approach each other ever more without any
+certain limit, save at their infinite production ; I say
+all angles (fiy. 33) at any points L, H, D of AX,
+from which are let fall to the straiyht ΒΧ perpen-
+diculars LK, HK, DK, first will all be obtuse toward
+the parts of the point A, secondly will be ever leSS,
+the more distant from this point A, and finally the
+angles more and more distant from this same point
+A ever more without any certain limit approach to
+equality with a riyht angle.
+
+PROOF. The first part follows indeed from Cor. I. to
+P. XXIII. The second part however is proved thus For
+the two angles together at LK toward
+the base AB are greater (from Cor.
+to P. XVI.) than the two interna]
+and opposite angles together at HK
+toward the same base AB.
+
+But the angles at each point K
+toward the base AB are equal to each
+other, as being right. Therefore the
+obtuse angle at L toward the base
+AB is greater than the obtuse angle Α Fig. 33.
+at H toward the same base AB.
+
+In like manner is shown that the aforesaid obtuse
+angle at H is greater than the obtuse angle at the point D.
+And thus ever, proceeding toward the points X.
+
+Finally the third part requires a longer disquisition.
+If therefore it can be done, let there be assigned (fig. 34)
+a certain angle MNC, than which is always greater, or
+anyhow not les5, the excess of any of the aforesaid obtuse
+angles above a right angle. It follows (from P. XXI.)
+that the sides NM, NC comprehending that angle MNC
+can be so produced that the perpendicular MC from a
+certain point M of MN [61] let fall upon NC may be
+
+ιιι
+
+ 
+

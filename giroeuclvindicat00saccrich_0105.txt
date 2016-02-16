@@ -1,0 +1,46 @@
+right angleS, is established respectively the hypothesis of
+right angle, or obtuse angle, or acute angle.
+Quod erat demonstrandum.
+
+COROLLARY.
+
+Hence, any two opposite sides oi the premised quadri-
+lateral being produced toward the same parm, as suppose
+AD to H, and BC to M ; the two external angles HDC,
+MCD will be ( Eu. Ι. 13) either equal t0‚ or leSS‚ or
+greater than the two internal' and opposite angles together
+at the points A, and Β, according as is true the hypothesis
+of right angle, or obtuse angle, or acute angle.
+
+PROPOSITION XVII.
+
+If the straiyht ΑΗ stands (fio. 15) at riyht angles to
+any certain arbitrarily small straiyht AB: I say that
+in the hypothesis of acute anyle it cannot hold qood,
+that every straiyht BD, making with ΑΒ toward the
+parts of this ΑΗ any acute anyle K
+you choose, will at length meet
+
+this AH produced at a finite, or
+
+terminated distance.
+
+PROOF. Join ΗΒ. The angle ABH n D
+will be acute (Eu. Ι. 17) because of
+the right angle at the point A. Now
+draw' (Eu. I. 23) HD toward [24] the
+parts of the point Β, which not cut—
+ting the angle AHB makes with this ΗΒ an acute angle
+equal to this acute angle ABH. Then from the point
+B is let fall to HD the perpendicular BD, which will
+fall toward the parts of the aforesaid acute angle at the
+point H.
+
+Since therefore the side ΗΒ is opposite in the triangle
+HDB to the right angle at D, and likewise in the triangle
+
+Α 13
+Fig.15.
+
+69
+

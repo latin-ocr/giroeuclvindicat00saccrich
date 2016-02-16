@@ -1,0 +1,45 @@
+, points C, K, D pertain to the
+
+PART ΙΙ.
+
+IN WHICH THE SAME EUCLIDEAN POSTULATE IS DEMON-
+STRATED AGAINST THE HYPOTHESIS OF ACUTE ANGLE
+BY REFUTING THIS.
+
+PROPOSITION XXXIV,
+
+I n which is investiyated a certain curve arisiny from the
+hypothesis of acute angle}
+
+Let the straight CD j oin equal perpendiculars AC, BD
+standing upon a certain straight AB. Then AB, CD being
+
+bisected in the points M and H (fig. 42), MH is joined
+perpendicular (by P. II.) to each.
+
+Again in this hypothesis the an- Argu*
+
+gles at the join CD are supposed <²
+acute. Therefore in the quadri-
+lateral AMHC (by Cor. Ι. to P.
+ΙΙΙ.) ΜΗ will be less than AC.
+Hence now, if in MH produced A
+
+ΜΚ be taken equal to AC, the Fig ΜΩ.
+
+curve here investigated. Then the angles at the join
+CK will be themselves acute (by P. VII.).
+
+Therefore the join LX, which bisectS, and therefore
+(by P. IL), is at right angles to AM, CK, will be like-
+wise (by Cor. I. to P. III.) less than AC. Wherefore, if
+in LX produced we assume LF equal to AC or MK, the
+point F also will pertain to this curve. Further, joining
+CF, and FK we find likewise two other points pertaining
+to the same curve And so on forever
+
+11n the hy piotheS1s of acute angle an equ1 idistant of a stra1 ght has
+its chor ds between it and the str1ai.ght
+
+209
+

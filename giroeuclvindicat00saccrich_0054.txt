@@ -1,0 +1,25 @@
+EUCLIDIS AB ΟέᾹΑᾞΙ NAEVO VINDI-
+
+LIBER PRIMUS:
+
+IN QUO DEMONSTRATUR: DUAS QUASLIBET IN EODEM
+PLANO EXISTENTES RECTAS LIN EAS, IN QUAS RECTA
+QUAEPIAM INCIDENS DUOS AD EASDEM PARTES IN-
+TERNOS ANGULOS EFFICIAT DUOBUS RECTIS MINORES,
+AD EAS PARTES ALIQUANDO INVICEM COITURAS‚ SI IN
+INFINITUM PRODUCANTUR.
+
+PARS PRIMA
+
+PROPOSITIO Ι.
+
+Si duae aequales rectae (fiq. 1.) AC, BD, aequales acl eas-
+dem partes efficiant auqulos cum recta AB : Dico
+anqulos ad junctam C D aequales invicem fore.
+
+Demonstratur. Jungantur AD, CB. Turn conside-
+rentur triangula (ΖΑΒ, DBA. Constat (ex quarta· primi)
+aequales fore bases CB, AD. Deinde considerentur tri-
+angula ACD, BDC. Constat (ex octava primi) aequales
+fore angulos ACD, BDC. Quod erat demonstrandum.
+

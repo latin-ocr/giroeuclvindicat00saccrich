@@ -1,0 +1,44 @@
+PROPOSITION· XXXI.
+
+Now I say there will be, of the aforesaid common perpene
+diculars in two distinct pointS, no determinate amit,
+such that under a smaller and smaller acute anyle
+made at the point A, it would not always be possible
+to attain (in the hypothesis of acute angle) to such α
+common perpendicular in two distinct points as is
+less than any assignable length R.
+
+PROOF. For in so far as the thing were otherwise;
+if from the point K (resume fig. 30) in ΒΧ assigned at
+any however great distance from
+the point B, a perpendicular KL
+is erected, to which from point A
+(by Eu. Ι. 12) the perpendicular
+AL is supposed let fall, KL ought
+to be greater than the length R.
+
+The reason is; because a higher
+point Q being assumed in t'his ΒΧ, y
+from which is erected to ΒΧ the
+perpendicular QF, to which (by
+the same Eu. Ῑ. 12) a perpendic-
+
+ 
+
+ular AF is let fall, this again must anyhow not be less
+than the length R.
+
+But KL (from Cor. to preceding proposition) will
+be greater than QF. Therefore KL would be greater
+than the aforesaid length R. And so ever proceeding
+higher.
+
+But now, if this however great KB is supposed divided
+(as in P. XXV.) into portions KK, equal to the length
+R, and from these points K perpendiculars are erected,
+which meet AX in points H, D, M; the angles at these
+pointS, toward the parts of the point L, will neither be
+right nor obtuse; lest in some quadrilateral‚ as suppose
+
+167
+

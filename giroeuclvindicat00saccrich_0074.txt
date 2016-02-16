@@ -1,0 +1,38 @@
+PROPOSITIO V111.
+
+Dato quovis triangulo (fiy. 7.) ABD, rectanyulo in B,
+protrahatur DA usque ad aliquod punctum X, et per
+Α erigatur ipsi ΑΒ perpendicularis HAG, existente
+puncto H ad partes cmpuli ΧΑΒ. Dico angulum ex-
+ternum XAH aequalem fore, aut minorem, aut ma·
+jorem interm, et opposito ADB, prout vera sit hypo-
+
+thesis cmyuli recti, aut anyuli obtusi, aut anguli acuti:
+Et vicissim.
+
+Demonstratur. Sumatur in HC portio AC aequalis
+ipsi BD, jungaturque CD. Erit CD, in hypothesi anguli
+recti, aequalis (ex tertia hujus) ipsi AB. Quare angulus
+ADB aequalis erit (ex octava primi) angulo DAC, sive
+ejus aequali (ex decimaquinta primi) angulo XAH.
+Quod erat primo loco demonstrandum.
+
+Tum, in· hypothesi anguli obtusi, erit CD (ex eadem
+tertia hujus) minor ipsa AB. Quare in triangulis ΑΕΒ,
+DAC erit (ex vigesimaquinta primi) angulus DAC, sive
+(ipsi ad verticem) XAH, minor angulo ADB. Quod
+erat secundo loeo demonstrandum.
+
+⁴ Tandem, in hypothesi anguli acuti, erit CD (ex eadem
+
+tertia hujus) major contraposita AB. Quare in prae-
+dictis trianguliS, erit (ex eadem vigesimaquinta primi)
+angulus DAC, sive (ipsi ad verticem) XAH, major an-
+gulo ADB. Quod erat tertio loco demonstrandum.
+
+Vicissim autem: si angulus CAD, sive ejus ad verti-
+cem XAH, aequalis sit intern0‚ et opposito ADB: erit
+(ex quarta primi) juncta CD aequalis ipsi AB, ac propte-
+[11] rea (ex quarta hujus) vera erit hypothesis anguli
+recti. '
+

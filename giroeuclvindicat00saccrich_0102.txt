@@ -1,0 +1,32 @@
+PROPOSITIO XVI.
+
+Ex quolibet quadrilatera ABG D, cujus quatuor simul an-
+9uli aequales sint, aut majores, aut minores quatuor
+rectis, stabilitur respective hypothesis aut anguli recti,
+aut anguli obtusi, aut anyuli acuti.
+
+Demonstratur. Jungatur AC. Non erunt (fig. 14.)
+tres simul anguli trianguli ABC aequaleS, aut majore5‚
+aut minores duobus rectiS, quin tres simul anguli trianguli
+ADC sint ipsi etiam respective aequaleS, aut majoreS, aut
+minores duobus rectis; ne scilicet (ex praecedente) ab
+uno illorum triangulorum stabiliatur una hypothesis, et
+ab altero altera, contra quintam, sextam, et septimam
+hujus, Hoc stante: Si quatuor simul anguli propositi
+quadrilateri aequales sint quatuor rectiS, constat utrius-
+que modo dictorum triangulorum tres simul angulos
+aequales fore duobus rectiS, atque ideo (ex praecedente)
+stabili-[23ltum iri hypothesim anguli recti.
+
+Sin vero ejusdem quadrilateri quatuor simul anguli
+majores sint, aut minores quatuor rectiS, debebunt simili-
+ter illorum triangulorum tres simul anguli respective esse
+aut una majoreS‚ aut una minores duobus rectis, Quare
+ab illis triangulis stabilietur respective (ex praecedente)
+aut hypothesis anguli obtusi, aut hypothesis anguli acuti.
+
+Itaque ex quolibet quadrilaterO, cujus quatuor simul
+anguli aequales sint, aut majoreS, aut minores quatuor
+
+,66
+

@@ -1,0 +1,27 @@
+secet. Igitur infinitesima K, spectans ad curvam, aequalis
+omnino erit infinitesimae K spectanti ad tangentem. Con-
+stat autem infinitesimam K spectantem ad tangentem, nec
+majorem, nec minorem, sed omnino aequalem esse infini-
+tesimae M spectanti ad basim AB; quia nempe recta illa
+MK intelligi potest descripta ex fluxu semper ex aequo
+ejusdem puncti M usque ad eam summitatem K.
+
+Quare (juxta praemissum axioma) curva CKD, ex
+hypothesi anguli acuti enascenS, aequalis esse debe‘ret con-
+trapositae basi AB. Quod erat demonstrandum.
+
+SCI-IOLION I.
+
+Sed forte minus evidens cuipiam videbitur enunciata
+exactissima aequalitas inter illas infinitesimas M, et K.
+Quare ad avertendum hunc scrupulum sic rursum pro—
+cedo. Cuidam rectae AB insistant ad rectos angulos in
+eodem plano (fig. 48.) duae rectae aequales AC, BD.
+Rursum in eodem plano intelligatur existere circulus
+BLDH, cujus diameter BD; sitque semicircumferentia
+BLD aequa-[93llis praedictae AB. Praeterea idem cir—
+culus ita in eo plano revolvi concipiatur super ea recta
+AB, ut motu semper continuO, et aequabili perficiat, seu
+describat suae ipsius semicircumferentiae punctis prae-
+dictam BA ; quousque nempe punctum D, ad illam serni-
+

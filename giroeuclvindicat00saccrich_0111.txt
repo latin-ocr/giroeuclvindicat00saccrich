@@ -1,0 +1,49 @@
+you choose can be designated,[26l under which if any
+straight line meets another, this produced must (at a
+finite or terminated distance) finally meet any perpen-
+dicular erected upon this incident straight at whatever
+
+finite distance.
+
+PROPOSITION XVIII.
+
+From any trianyle ABC, of which (fiy. 17) the anyle at
+the point Β is inscribed in any semicircle of diameter
+AC, is established the hypothesis of riyht anyle, or
+obtuse anyle, or acute angle, accordiny as indeed the
+anyle at the point Β is riyht, or obtuse, or acute.
+
+PROOF. From the center D join DB. The angles at
+the base AB will be (Eu. I. 5) equal, and likewise at
+the base BC, in the triangles ADB,
+
+CDB. Wherefore, in the triangle V Β
+ABC the two angles at the base Δ
+AC will be together equal to the A
+
+whole angle ABC. Therefore the ‘D
+
+three angles of the triangle ABC F¹g' ¹7·
+
+will be together equal to, or greater, or less than two
+right angleS, according as the angle at the point B is right,
+or obtuse, or acute.
+
+Therefore from any triangle ABC, of which the angle
+at the point B is inscribed in any semicircle of diameter
+AC, is established (P. XV.) the hypothesis of right angle,
+or obtuse angle, or acute angle, according as indeed the
+angle at the point B is right, or obtuse, or acute.
+
+Quod erat demonstrandum.
+
+C
+
+PROPOSITION XIX.
+
+Let there be any trianyle AHD (fiy. 18) riyht-anyled at
+H. Then in AD produced the portion DC is as-
+sumed equal to this AD,· and the perpendicular C Β
+
+⁷⁵
+

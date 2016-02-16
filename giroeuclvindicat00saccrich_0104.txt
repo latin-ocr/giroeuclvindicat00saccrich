@@ -1,0 +1,35 @@
+rectiS, stabilitur respective hypothesis aut anguli recti,
+aut anguli obtusi, aut anguli acuti. Quod erat demon-
+strandum.
+
+COROLLARIUM.
+
+Hinc: protractis versus easdem partes duobus quibus-
+vis propositi quadrilateri contrapositis lateribuS‚ ut puta
+AD in H, et BC in M; erunt (ex 13. primi) duo simul
+externi anguli HDC‚ MCD aut aequaleS, aut minores,
+aut majores duobus simul interniS, et oppositis angulis
+ad puncta A, et B, prout vera fuerit hypothesis aut an-
+guli recti, aut anguli obtusi, aut anguli acuti.
+
+PROPOSITIO XVII.
+
+Si uni, ut libet, cuidam parvae rectae ΑΒ insistat (fiq. 15.)
+ad rectos anyulos recta ΑΗ : Dico subsistere non
+posse in hypothesi anyuli acuti, ut quaevis BD, effi-
+ciens cum ΑΒ quemlibet anyulum acutum versus
+partes ipsius ΑΗ, occursura tandem sit ad finitam,
+seu terminatam distantiam ipsi ΑΗ productae.
+
+Demonstratur. Jungatur ΗΒ. Erit (ex 17. primi)
+acutus angulus ABH‚ propter angulum rectum ad punc-
+tum A. Jam (ex 23. primi) ducatur quaedam HD ver-
+[24lsus partes puncti B, quae non secans angulum AHB
+efficiat cum ipsa ΗΒ angulum acutum aequalem ipsi acuto
+ABH. Deinde ex puncto B demittatur ad HD perpen-
+dicularis BD, quae cadet ad partes praedicti anguli acuti
+ad punctum H. Quoniam igitur latus ΗΒ opponitur in ·
+triangulo HDB angulo recto in D, atque item in triangulo
+
+68
+

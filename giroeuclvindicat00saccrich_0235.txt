@@ -1,0 +1,46 @@
+Therefore this BC either will cut XD (or the as-
+sumed straight DXC) in some point L; and then again
+two straight lineS, one LC, portion ot‘ this BC, and the
+other LXC, portion ot‘ the aforesaid DXC, inclose a
+space; or one of the extreme points whether A of BA,
+or D of CXD, is inclosed within the space bounded by
+CX, XB, and either BFC, or BHC.
+
+But in either case the same absurdity follows: For
+whether BA produced through A strikes BFC in a point
+F ; or CXD produced through D strikes BHC in a point
+H; always we come upon the same absurdity, that two
+straights inclose a space; forsooth either the straight[83l
+BF portion of BFC together with the other BAF ; or the
+straight HC, portion of BHC, together with the other
+assumed straight prolonged CXDH.
+
+Furthermore the same, or a greater absurdity fol-
+lows, if BA produced through A meets in any point
+either CX, or its own self in any point of its portion XB.
+
+And this likewise holds, if the other CXD produced
+through D meets in any point either XB, or its own sels
+in any point of its portion CX.
+
+Therefore is established, that two straights AB, CXD
+meeting each other in any intermediate point X of theirS,
+do not there touch each other, but one will cut the other
+there.
+
+Quod erat etc.
+
+LEMMA IV.
+
+Every diameter bisects its circle, and the circumference
+of it.
+
+PROOF. Let there be a circle (recall fig. 23) MDH-
+NKM, A its center, and MN a diameter. Of this circle
+the portion MNKM is thought so to revolve about the
+fixed points M, and N, that at length it is superimposed
+
+upon, or applied to the remaining portion MNHDM.
+
+199
+

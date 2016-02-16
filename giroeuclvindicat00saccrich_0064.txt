@@ -1,0 +1,34 @@
+Demonstratur. Si enim recta CD aequalis sit contra-
+positae AB, et nihilominus anguli ad eandem sint aut ob-
+tusi, aut acuti; jam ipsi tales anguli eam probabunt (ex
+praecedente) non aequalem, sed minorem, aut majorem
+contraposita AB ; quod est absurdum contra hypothesim.
+Idem uniformiter valet circa reliquos casus. Stat igitur
+angulos ad junctam CD esse aut rectOS‚ aut obtuSOS‚ aut
+acutos, prout recta CD aequalis fuerit, aut minor, aut ma-
+jor contraposita AB. Quod erat demonstrandum.
+
+DEFINITIONES.
+
+Quandoquidem (ex prima hujus) recta jungens extre-
+mitates aequalium perpendiculorum eidem rectae (quam
+vocabimus basim) insistentium, aequales ef-[6lficit an-
+gulos cum ipsis perpendiculis; tres idcirco distinguendae
+sunt hypotheses circa speciem horum angulorum. Et pri-
+mam quidem appellabo hypothesim anguli recti; secun-
+dam vem, et tertiam appellabo hypothesim anguli obtusi,
+et hypothesim anguli acuti.
+
+PROPOSITIO V.
+
+H ypothesis anguli recti, si vel in uno casu est vera, sem-
+per in omni casu illa sola est vera.
+
+Demonstratur. Efficiat juncta CD (fig. 4.) angulOs
+rectos cum duobus quibusvis aequalibus perpendiculis AC.
+BD, uni cuivis AB insistentibus, Erit CD (ex tertia hu-
+jus) aequalis ipsi AB. Sumantur in AC, et BD protrac-
+tis duae CR, DX, aequales ipsis AC, BD; jungaturque
+RX. Facile ostendemus junctam RX aequalem fore ipsi
+AB, et angulos ad eandem rectos Et primo quidem per
+

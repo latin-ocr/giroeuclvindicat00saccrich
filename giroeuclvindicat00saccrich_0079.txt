@@ -1,0 +1,46 @@
+since with this (Eu. I. 13) [12] the angle XAH makes
+
+up two. Wheret'ore, subtracting the right angle HAB,
+the angles ADB and BAD will be together less than one
+
+right angle.
+Quod erat tertium.
+
+PROPOSITION X.
+
+I f the straight ΠΒ (fiy. 8) stand perpendicular to a
+straight ΑΒΜ, and the join DM be yreater than the
+join DA, then also the base ΒΜ will be greater than
+the base ΒΑ. And inversely.
+
+PROOF. And in the first place assuredly these bases
+will not be mutually equal. Otherwise (Eu. Ι. 4) AD
+and DM would be equal, contrary to the hypothesis..
+
+D
+ΛΑΜ
+F ig. 8.
+
+, But neither will BA be greater than ΒΜ. Otherwise.
+in BA the portion ΒΞ being taken equal to ΒΜ, and SD
+joined, the angles BSD, BMD (Eu. Ι. 4) would be equal.
+But angle BSD is (Eu. Ι. 16) greater than angle BAD.
+Therefore angle BMD would be greater than angle BAD.
+But this is contrary to Eu. Ι. 18; since side DM in triangle
+
+MDA is supposed greater than side DA. It remains .
+
+therefore, that the base ΒΜ is greater than the base BA.
+
+Quod erat primo loco demonstrandum.
+
+Next if either base, as ΒΑ suppose (the figure need
+not be changed) is conceived as greater than the other
+ΒΜ ; then the join DS, which cuts off from ΒΑ the por·-
+tion ΞΒ equal to ΒΜ, will be equal (Eu. Ι. 4) to the
+
+⁸ join DM. Again angle DSA will be obtuse (Eu. Ι. 16)
+and angle DAS acute (Eu. Ι. 17).
+
+43
+

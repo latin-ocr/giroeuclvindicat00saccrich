@@ -1,0 +1,33 @@
+PROPOSITIO XXXI.
+
+Iam dico nullum fore praedictorum in duobus distinctis
+punctis communium perpendiculorum limitem deter-
+minatum, quo minus sub minore, ac minore acuto
+angulo, ad illud punctum A constitum, deveniri sem·
+per possit (juxta hypothesin anguli acuti) ad tale
+commune ⁴in duobus distinctis punctis perpendiculum,
+quod sit minus qualibet assignata lonyitudine R.
+
+Demonstratur. Quatenus enim aliter res se habeat;
+si ex puncto K (recole fig. 30.) in quantalibet a puncto
+Β distantia in ea ΒΧ assignatO, educatur perpendicularis
+KL, ad quam ex puncto A (juxta 12. primi) demissa in-
+telligatur perpendicularis AL, deberet ipsa KL major
+esse ea longitudine R. Ratio autem est3 quia assumpto in
+eadem ΒΧ altiore puncto Q, ex quo educatur ad ipsam
+ΒΧ perpendicularis QF, ad quam (juxta eandem 12.
+primi) demittatur perpendicularis AF, deberet haec rur-
+sum saltem non esse minor ea longitudine R. Erit autem
+KL (ex Cor. praeced. Prop.) major ipsa QF. Igitur ea
+KL major foret praedicta longitudine R. Atque ita sem-
+per altius procedendo
+
+Jam vero: si illa quantacunque KB divisa intelligatur
+(prout in XXV. hujus) in portiones KK, aequales illi
+longitudini R, educanturque ex illis punctis K perpen-
+diculareS, quae occurrant ipsi AX in punctis H, D, M;
+non erunt anguli ad haec puncta, versus partes puncti L,
+aut recti, aut obtusi3 ne in aliquo quadrilater0‚ ut puta
+
+166
+

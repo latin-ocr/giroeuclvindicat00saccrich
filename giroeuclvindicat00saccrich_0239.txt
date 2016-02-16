@@ -1,0 +1,40 @@
+late as conceded to him, but demonstrates through a
+problem in his Bk. I. P. ll. For there he teaches from any
+given point A (fig. 40) in the straight BC to erect a
+perpendicular AD at which the angles DAB, DAC are
+equal to each other.
+
+Moreover that those two angles are precisely equal
+to each other, without any difference even infinitely small.
+follows from the corollary after the first two premised
+lemmata, [85] if AB, AC are taken exactly equal.
+
+F j-
+B Α 0 Ρ n Μ
+Fig. 40.Μ Fig. 41.
+
+But some doubt may arise, if two other right angles
+LHF, LHM (fig. 41) at any other straight FM are
+compared with the aforesaid right angles DAB, DAC.
+
+Therefore let HL be equal to AD, and then the whole
+latter figure is thought to be superposed upon the former
+SO, that point H falls upon point A, and point L upon
+point D.
+
+Now I proceed thus,
+
+And first indeed (from a preceding lemma [III]) this
+FHM does not exactly touch the other BC in the point
+A. Therefore either it runs forward precisely upon BC,
+or will cut it so that one of its end points for example F'
+falls above, and the other M below.
+
+In the first case: now clearly we have the exact equal-
+ity asserted between all rectilinear right angles,
+
+But not in the second; because thus the angle LHF,
+here it is DAF, will be less than the angle DAB, and its
+
+²03
+

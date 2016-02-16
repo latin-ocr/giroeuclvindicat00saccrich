@@ -1,0 +1,48 @@
+surd in the hypothesis of acute angle; since the straight
+KH joining equal perpendiculars KC, HD, makes1 acute
+angles with these perpendiculars.
+
+Therefore the perpendicular BD is not (in the hypoth-
+esis οἱ acute angle) greater than the half of the perpen-
+
+dicular MC.
+Quod erat demonstrandum.
+
+PROPOSITION XXI.
+
+The same remaininyz If AM and AC are understood as
+produced in infinitum I say their distance (in either
+the hypothesis of riyht anyle, or of acute anyle) will
+be yreater than any assiynable finite lenyth. [29]
+
+PRO0F. In AM produced assume ΑΡ double of AM,
+and let fall to AC produced the perpendicular ΡΝ.
+
+The perpendicular MC will not be (from the pre-
+ceding) in either hypothesis aforesaid greater than half
+the perpendicular ΡΝ. Therefore ΡΝ will be at least
+double MC, just as MC is at least double BD.
+
+And so alwayS, if in AM produced is assumed double
+ΑΡ, and from the terminus of this a perpendicular is let
+fall to AC produced.
+
+It is obvious that the perpendicular, which from AM
+ever more produced is let fall to AC produced, will be
+a multiple of the determinate BD beyond any finite as-
+signable number.
+
+Therefore the distance of the aforesaid straights will
+be (in either aforesaid hypothesis) greater than any
+assignable finite length.
+
+Quod erat demonstrandum.
+
+COROLLARY.
+
+But since the hypothesis of obtuse angle, which alone
+could hinder here, is already proved absolutely false;
+
+1 Propp. 1„ VII„ and XVI.
+81
+

@@ -1,0 +1,53 @@
+C Ξ syllogism of the first figure having one premise neg-
+ative.
+The two premises
+
+Every A is a B,
+No C is an A,
+
+will then become the two following propositions:
+
+1. Every syllogism of the first figure having the two
+premises universal and affirmative is a valid syllo-
+gism:
+
+2. No syllogism of the first figure having one premise
+negative, is a syllogism of the first figure having the
+two premises universal and affirmative.
+
+Now these two premises both being true, we must either
+
+admit as true the conclusion:
+
+NoCisaB
+
+(that is, No syllogism of the first figure having one premise
+negative is a valid syllogism), or else concede that the mean-
+ings we have given to the terms A, B, C of the syllogism
+whose validity is in question, render true its two premises
+and false its conclusion.
+
+In either case we are equally forced to admit that the
+syllogism in question is not valid.
+
+“Vel concedis vel negas consequentiam. Si concediS,
+habetur intentum. Si negaS‚ conclusioni dissentiens post
+concessas praemissaS‚ fateris ipse legitimum non esse ex
+
+praemissis eiusmodi consequentiam quod intendebatur’'
+(Loyica dem„ p. 132).
+
+His teaching of logic ended, his course published, its
+weapon of predilectio-n, IX—-12, left in his powerful handS,
+in his new field, mathematiCS‚ what heroic adventure was
+worthy its trenchant edge?
+
+Sir Henry Savile, in his Praelectiones tresdecim in prin-
+cipium Elementorum Euclidis habitae 1620, Oxford, 4⁰,
+1621, p. 140, says: “In pulcherrimo Geometriae corpore
+duo sunt naevi.''
+
+And the greatest of these moles is the eternal Parallel
+
+xxviii
+

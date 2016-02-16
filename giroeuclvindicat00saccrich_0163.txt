@@ -1,0 +1,42 @@
+indeed the angle KLK to the angle KMK, and the angle
+LKK to the angle MKK„ Therefore equal also are the
+remainders NKM and HKL. Wherefore, since the sides
+NK, KM of the triangle NKM are equal in the same way
+to the sides HK, KL of the triangle HKL, equal also
+will be (from the same Eu. Ι. 4) the bases ΝΜ, HL,
+the angles KNM, KHL,' and finally the angles KMN,
+KLH. But in the preceding triangles are already proved
+equal the angles KLK‚ KMK, Therefore the whole angle
+NMK is equal to the whole angle HLK.
+
+Wherefore‚ since all angles at the points K are right,
+it follows manifestly all four angles together of the
+quadrilateral KNMK are equal to all four angles together
+of the quadrilateral KHLK.
+
+But since the two angles together at the points N and
+M in the quadrilateral KNMK are greater, in hypothesis
+of acute angle, than the two angles together (from Cor.
+after P. XVI.) at the points D and H in the quadrilateral
+NDHM, or the quadrilateral KDHK‚ the consequence
+thence is, that (the common right angles at the points Κ
+being added) the four angles together of the quadrilatera]
+KNMK, or the quadrilateral KHLK are greater (in
+
+hypothesis of acute angle) than the four angles together
+of the quadrilateral KDHK.
+
+Quod erat demonstrandum. [50]
+
+COROLLARY.
+
+But it ought here opportunely to be observed, nothing
+will fail in the argument made, although the angle at the
+point L is assumed right, together with hypothesis of
+acute angle. For still that common perpendicular LK
+would be less (from Cor. I. to P. III.) than the other
+perpendicular HK, from which therefore still a portion
+MK could be assumed equal to the aforesaid LK.
+
+Ι 127
+

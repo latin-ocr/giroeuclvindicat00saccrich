@@ -1,0 +1,46 @@
+PROPOSITION XIII.
+
+I f the straiyht ΧΑ (of desiynated lenyth however yreat)
+meetiny two straiyhts AD, XL, makes with them
+toward the same parts (ᾖς. 11) interna! anyles XAD,
+AXL less than two riyht anyles: I say, these two
+(even if neither of those anyles be a riyht anyle)
+at lenyth will mutually meet in some point on the
+side toward those anyles, and indeed at a finite, or
+
+terminated distance, if either hypothesis holds, of
+riyht anyle or of obtuse anqle.
+
+PROOF. For one of the said angleS, as AXL suppose,
+will be acute.
+
+Accordingly from the vertex of the other angle is
+dropped the perpendicular ΑΡ on XL, which certainly
+
+D
+x ⁸⁸1.
+
+p
+Fig. 11.
+
+(because of Eu. I. 17) falls on the side of the acute angle
+AXL. Since therefore in the triangle APX, right-angled
+at P, the two acute angles PAX, PXA, together are not
+less (P. IX.) than a right angle, in either hypothesiS, of
+right angle, or of obtuse angle; if these two angles are
+taken away from the sum οἱ the given angles the then
+remaining angle PAD will be less than a right angle.
+Consequently we will be in the case of the two preceding
+proposition5‚ since it is obvious that one or the other
+hypothesis holds, either of right angle, or of obtuse angle.
+
+Wherefore the straights AD, and PL, or XL, meet
+
+in some point at a finite, or terminated distance on the
+
+side noted, [17] as well under the one as under the other
+mentioned hypothesis
+
+Quod erat demonstrandum.
+53
+

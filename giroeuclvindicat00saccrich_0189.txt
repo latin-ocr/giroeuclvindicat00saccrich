@@ -1,0 +1,39 @@
+greater (even in the hypothesis of acute angle) than
+
+any assigned finite length, as for instance the aforesaid
+base AB.
+
+M
+
+M C
+Fig. 34.
+
+ 
+
+This standing; assume in ΒΧ (fig. 35) a certain BT
+equal to CN, and erect from the point T toward AX the
+perpendicular TS, which obviously (from Scholion after
+P. XXIV.) meets AX in a certain point S. Then from
+the point S let fall. to AB the perpendicular SQ.
+
+This falls (because of Eu. I. 17) toward the parts of
+the acute angle SAR between the points A and Β. Again‚
+acute will be the angle QST in the quadrilateral QSTR
+since the remaining three angles are right3 else (against
+Propp. V. and VI.) we come upon the hypothesis either
+of right angle or of obtuse angle.
+
+Hence the straight SQ will be greater (from Cor. Ι.
+to P. ΙΙΙ.) than the straight BT, or CN; and again the
+angle ASQ will be greater than the excess by which the
+obtuse angle AST exceeds a right angle, and thus greater
+than the angle MNC. Draw therefore a certain SF cut-
+ting AQ in F and making with SA an angle equal to
+MNC. Then from the point A draw to SF produced
+the perpendicular AO. The point O falls (from Eu.
+
+I. 17) below the point F, since the angle AFS (by Eu.
+Ι. 16) is obtuse.
+
+1⁵3
+

@@ -1,0 +1,31 @@
+PROPOSITIO XIII.
+
+Si recta ΧΑ (quantaelibet desiynatae lonyitudinis) inci·
+dens in duas rectas AD, XL, efficiat cum eisdem ad
+easdem partes (ᾖς). 11.) anyulos internos XAD,
+ΑΧ L minores duobus rectis: dico, illas duas (etiamsi
+neuter illorum anyulorum sit rectus) tandem in
+aliquo puncto ad partes illorum angulorum invicem
+coituras, et quidem ad finitam, seu terminatam dis·
+tantiam, dum consistat alterutra hypothesis aut an-
+guli recti, aut anyuli obtusi.
+
+Demonstratur. Nam unus praedictorum angulorum,
+ut puta AXL, erit acutus, Itaque ex apice alterius an-
+guli demittatur ad XL perpendicularis AP, quae utique
+(propter deeimamseptimam primi) cadet ad partes an-
+guli acuti AXL, Quoniam igitur in triangulo APX, rect-
+angulo in P, duo simul anguli acuti PAX, PXA, minores
+non sunt (ex nona hujus) uno reet0‚ in utraque hypo-
+thesi aut anguli recti, aut anguli obtusi; si duo isti anguli
+auferantur in summa angulorum propositorum jam re-
+liquus angulus PAD minor erit recto, Itaque erimus in
+casu duarum praecedentium Propositionum, dum scili—
+cet alterutra hypothesis consistat aut anguli recti, aut
+anguli obtusi. Quare (ex eisdem) rectae AD, et PL,
+sive XL, in aliquo puncto finitae, seu terminatae distan-
+tiae ad notas [17] partes concurrent, tam sub una, quam
+
+sub altera praedictarum hypothesium. Quod erat demon-
+strandum.
+
